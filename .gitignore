@@ -1,0 +1,7 @@
+
+company_data/
+backups/
+restore_test/
+__pycache__/
+*.pyc
+*.bak
